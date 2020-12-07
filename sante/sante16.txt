@@ -1,0 +1,28 @@
+https://www.lemonde.fr/sante/article/2016/03/16/zika-le-virus-est-bien-en-cause-dans-les-microcephalies_4883562_1651302.html
+
+## Zika : le virus est bien en cause dans les microcéphalies
+
+Une équipe animée par des chercheurs de l’Institut Pasteur apporte la preuve que le virus Zika peut entraîner, chez la femme enceinte, une microcéphalie de son fœtus, qui associe un périmètre crânien inférieur aux normes et des anomalies cérébrales. Dans l’étude publiée mercredi 16 mars dans la revue médicale The Lancet, le docteur Simon Cauchemez – de l’unité de modélisation mathématique des maladies infectieuses de l’Institut – et ses collègues quantifient pour la première fois la probabilité de survenue de cette malformation congénitale. Le risque de base de la microcéphalie évalué par les chercheurs, qui est de 0,02 % (2 nouveau-nés atteints sur 10 000), est multiplié par 50 et passe à près de 1 % lorsque la mère est infectée au cours du premier trimestre de sa grossesse.
+
+Une partie des chercheurs de cette équipe dirigée par le professeur Arnaud Fontanet (Institut Pasteur et Conservatoire national des arts et métiers) a récemment démontré la relation de causalité entre le virus et la survenue de syndromes de Guillain-Barré chez l’adulte. Cette nouvelle publication, qui utilise les données de l’épidémie de Zika survenue en Polynésie française en 2013 et 2014, renforce donc la notion, méconnue jusqu’en 2015, d’un tropisme du virus Zika pour le système nerveux.
+
+L’Organisation mondiale de la santé (OMS) a déclaré, le 1er février, que l’explosion de cas de microcéphalies et de syndromes de Guillain-Barré en Amérique latine et dans les Caraïbes constituait une urgence internationale de santé publique. Néanmoins, tout en soulignant l’association dans le temps et dans l’espace avec l’épidémie de Zika, l’OMS précisait que, si une relation de cause à effet était fortement soupçonnée, elle n’était pas encore scientifiquement démontrée.
+
+Plusieurs observations ont rapporté que l’on retrouvait du virus Zika dans le liquide amniotique chez des femmes enceintes infectées, dans le placenta et le cerveau du fœtus, ou encore que le virus pouvait déclencher une myélite aiguë – grave inflammation de la moelle épinière –, alors que le syndrome de Guillain-Barré affecte les nerfs périphériques. Une étude conduite in vitro a également montré que les cellules souches à l’origine des neurones étaient particulièrement susceptibles d’être infectées par Zika. Cependant, le virus était rarement isolé et son matériel génétique n’était pas retrouvé chez les nouveau-nés microcéphales. Des calcifications cérébrales ont également été observées au scanner. Mais il manquait encore une preuve solide.
+
+Premier trimestre de grossesse
+
+La nouvelle étude menée par les chercheurs de l’Institut Pasteur, en collaboration avec le bureau de veille sanitaire et les centres hospitaliers de Polynésie française, Necker et Trousseau, a identifié rétrospectivement les cas au cours de l’épidémie, qui avait infecté 66 % de la population locale. « Nous avons mené une étude à partir de l’ensemble des dossiers d’aide au diagnostic prénatal établis entre le 1er septembre 2013 et le 31 juillet 2015, soit un effectif de 8 000 femmes, explique le professeur Fontanet. Nous avons identifié 8 cas de microcéphalie parmi les naissances au cours de la période de l’étude. » 
+
+Dans sept des huit cas, la femme avait été exposée au virus Zika pendant sa grossesse, puisque la naissance a eu lieu dans une période de quatre mois autour de la fin de l’épidémie. L’occurrence de sept cas d’une complication rare dans un intervalle de temps aussi court suggérait plus qu’un effet du hasard, mais il fallait être plus précis.
+
+« Nous avons réalisé une modélisation avec six modèles correspondant à différentes périodes de grossesse et un dans lequel il n’y aurait pas d’association entre infection pendant la grossesse et microcéphalie. Nous avons ensuite analysé la manière dont chacun de ces modèles et le niveau de risque attendu coïncidaient avec les faits observés », détaille le docteur Cauchemez.
+
+Le modèle rendant le mieux compte de la réalité est celui d’une infection au cours du premier trimestre de grossesse. Avec les examens sérologiques pratiqués chez les femmes enceintes et attestant ou non une infection par le virus Zika, les chercheurs ont évalué à 0,95 % le risque pour une femme enceinte infectée au cours du premier trimestre d’avoir un enfant microcéphale.
+
+« Problème de santé publique »
+
+Ce risque peut sembler faible. La rubéole contractée au premier trimestre de grossesse entraîne par exemple un risque de complication grave chez au moins 40 % des bébés. Mais contrairement à cette maladie, qui affecte moins de 10 femmes enceintes par an en France et contre laquelle il existe un vaccin, la proportion de personnes infectées durant une épidémie de Zika peut dépasser 50 % et « cela devient un problème de santé publique », pointe M. Cauchemez.
+
+Compte tenu de la qualité des données – presque exhaustives selon les chercheurs –, l’étude apporte un argument puissant et inédit à la thèse de l’implication du virus Zika dans la flambée de cas de microcéphalies observées en Amérique latine et dans les Caraïbes. La publication, le 4 mars, dans le New England Journal of Medicine, de résultats préliminaires du suivi de 72 Brésiliennes enceintes, avec une infection symptomatique par le virus Zika confirmée en laboratoire, prouve un taux élevé (30 %) de malformations fœtales diverses. Des résultats plus complets sont attendus. Ils devraient conforter le lien de causalité entre virus Zika et microcéphalies, même si l’action de cofacteurs (alcoolisme, co-infection par d’autres virus, exposition à des pesticides…) n’est pas exclue.
+

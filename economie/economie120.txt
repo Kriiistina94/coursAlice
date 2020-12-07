@@ -1,0 +1,34 @@
+https://www.lemonde.fr/economie/article/2016/10/14/affaire-samsung-les-batteries-parfaites-suspectes_5014117_3234.html
+
+## Affaire Samsung : les batteries, parfaites suspectes
+
+La course aux batteries continue : lors du lancement de ses nouveaux téléphones Pixel, il y a dix jours, Google annonçait une capacité de charge de sept heures en à peine quinze minutes. Peu après, une équipe de chercheurs sud-coréens annonçait la création d’une batterie avec une capacité cent fois plus rapide que la moyenne, rapportait le 10 octobre l’agence sud-coréenne Yonhap.
+
+Autonomie et temps de chargement sont devenus des arguments commerciaux pour les fabricants de smartphones. Dans cette course effrénée au « toujours plus longtemps », « toujours plus vite », Samsung vient de payer le prix fort, obligé d’abandonner la production de son nouveau Galaxy Note 7 et de rappeler les appareils déjà en circulation.
+
+L’addition est lourde pour l’opérateur : 2,3 milliards de dollars, soit 2 milliards d’euros, rien que pour le rappel des téléphones. Un bénéfice opérationnel affecté jusqu’en mars 2017 : l’impact négatif est estimé aux alentours de 2 milliards d’euros pour le quatrième trimestre et à environ 799 millions d’euros pour le premier trimestre de 2017, a indiqué vendredi 14 octobre le groupe dans un communiqué. Et, bien sûr, une promesse envolée, celle de voir son téléphone phare s’arracher dans les rayons en fin d’année.
+
+C’est quoi une batterie lithium-ion ?
+
+1860 : le Français Gaston Planté crée l’« accumulateur électrique » : deux feuilles de plomb, séparées par une bande de caoutchouc, et plongées dans une solution acide permettent de stocker l’électricité et de la redistribuer. L’exploitation de la réaction électrochimique associée à une capacité d’orienter les ions dans un sens ou dans l’autre entre deux électrodes viennent de donner naissance aux premières « batteries » rechargeables. On parle déjà de charger et de décharger ce nouvel objet.
+
+Deux siècles plus tard, les principes de base restent inchangés, mais les avancées de la recherche ont permis de sélectionner de meilleurs matériaux pour une plus grande efficacité. Au fil du temps, l’accumulateur s’invite dans les automobiles, dans l’électroménager, dans les avions, et aujourd’hui dans les téléphones portables.
+
+Modernisation et miniaturisation obligent, les batteries ont été appelées à subir un drastique régime de minceur. Ainsi, en 1991, Sony dépose le brevet de batteries au lithium, encore onéreuses à l’époque, mais dont le rapport puissance-poids-encombrement fait la différence. Rapidement, ce choix technologique va s’imposer à l’ensemble du secteur des téléphones portables, qui ne sont pas encore des smartphones.
+
+Des incidents à répétition
+
+Samsung n’est pas le premier constructeur à faire les frais de dysfonctionnements liés à ce type de batterie : des avions Boeing cloués au sol, une voiture Tesla qui prend feu, des ordinateurs qui s’embrasent… les cas sont nombreux. Dans le domaine de la téléphonie, le finlandais Nokia avait été obligé de rappeler 46 millions de batteries en 2007 après une centaine d’incidents de surchauffe.
+
+Fortement inflammable, le lithium contenu dans ces batteries est sensible aux chocs thermiques. Il existe en outre un risque de court-circuit, si l’anode et la cathode de la batterie entrent en contact suite, par exemple, à un choc. Ce court-circuit conduit à une surchauffe de la batterie et possiblement à un embrasement. Or, pour revenir au cas des Galaxy Note 7, des observateurs ont souligné le choix fait par Samsung de séparateurs particulièrement fins pour isoler l’anode de la cathode.
+
+Des batteries d’origine différente, mais toujours des accidents
+
+La grave épreuve traversée par Samsung a mis sous le feu des projecteurs les batteries. Peut-être à tort. Les premiers téléphones Galaxy Note 7 distribués par Samsung étaient équipés, à leur lancement, par des batteries Samsung SDI, fournies par une filiale du géant sud-coréen.
+
+Après les premiers incidents signalés, et le rappel opéré par le constructeur, d’autres batteries ont été installées dans le téléphone, fournies cette fois par le fabricant chinois ATL. Pourtant, là encore, des incidents se sont produits.
+
+Dès lors, la conception de la batterie lithium-ion n’est peut-être pas la seule à devoir être incriminée. Elle pourrait n’être finalement que la manifestation d’un problème de conception plus global. Vouloir permettre une autonomie toujours plus grande des batteries ; leur permettre de se recharger toujours plus vite ; leur demander d’occuper un espace toujours plus réduit dans l’appareil, sont autant de défis posés à une technologie dont les contraintes sont connues.
+
+Aujourd’hui Samsung en paye le prix, mais l’avertissement vaut pour tous ses concurrents qui participent à la même compétition.
+

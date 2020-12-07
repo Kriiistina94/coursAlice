@@ -1,0 +1,20 @@
+https://www.lemonde.fr/sante/article/2018/03/06/le-secret-de-l-eternite-des-tatouages-decouvert_5266636_1651302.html
+
+## Le secret de l’éternité des tatouages découvert
+
+Pourquoi les tatouages sont-ils si durables alors que les cellules présentes dans le derme qui absorbent le pigment meurent beaucoup plus rapidement ? Des chercheurs de l’Inserm, du CNRS et d’Aix-Marseille université regroupés au sein du centre d’immunologie de Marseille-Luminy ont élucidé cette énigme, ouvrant la voie à une solution plus efficace pour les effacer. Les travaux de cette équipe dirigée par Sandrine Henri et Bernard Malissen ont été publiés, mardi 6 mars, dans le Journal of Experimental Medicine.
+
+Jusqu’à récemment, l’idée prévalait que le tatouage teintait les fibroblastes, cellules constituant le derme (la couche intermédiaire des trois que comprend la peau). Puis, il est apparu que les cellules du derme où se concentre l’encre sont en fait les macrophages, des cellules appartenant au système immunitaire dont « le rôle est de capter tous les objets étrangers ayant pénétré dans le corps », comme l’explique Sandrine Henri. Mais, ni les fibroblastes ni les macrophages ne persistent durant toute la vie d’un individu. « Un macrophage dure de l’ordre d’une vingtaine de jours », précise Sandrine Henri. Ils sont sans cesse renouvelés au cours de l’existence.
+
+Les chercheurs marseillais qui étudiaient ces macrophages du derme chez des souris à peau noire avaient remarqué que le pigment qui donne cette couleur à leur peau, la mélanine, était réabsorbé par les macrophages lorsque les cellules qui le produisent meurent. Ils ont alors eu l’idée de vérifier s’il en allait de même avec l’encre des tatouages.
+
+Des queues de souris tatouées
+
+Pour ce faire, ils ont travaillé avec un modèle de souris génétiquement modifiées de façon à pouvoir détruire les macrophages présents dans leur derme. Les scientifiques ont mis au point un anticorps capable de reconnaître et de se lier spécifiquement aux macrophages, et lui ont accolé une toxine destinée à les détruire. Quelques semaines après la destruction des macrophages, ces cellules étaient remplacées par de nouveaux macrophages produits à partir de cellules précurseuses de la moelle osseuse.
+
+Dans un premier temps, les chercheurs ont tatoué la queue des souris et ont constaté que seuls les macrophages du derme captaient le pigment. Puis, ils ont détruit ces cellules et ont observé que le tatouage ne se modifiait pas pour autant. « Les particules de pigment sont trop grosses pour se disperser facilement et restent sur place avant d’être captées par les nouveaux macrophages », détaille Sandrine Henri.
+
+C’est donc une sorte de cycle qui se déroule dans le derme avec des cellules qui absorbent le pigment et meurent ensuite en le transmettant à de nouvelles cellules environnantes, et ainsi de suite. Un phénomène confirmé par le fait que lorsque de la peau tatouée d’une souris est greffée sur une autre souris non tatouée, six semaines plus tard, la plupart des macrophages contenant du pigment ont bien été produits par la souris receveuse et non par celle sur laquelle le greffon avait été prélevé.
+
+Pour Bernard Malissen et Sandrine Henri, leurs constatations devrait servir à améliorer les traitements actuels de suppression des tatouages. En effet, ceux-ci font appel à des lasers sophistiqués pour détruire les cellules où se trouve le pigment. Cela nécessite des séances répétées pour détruire les cellules et fragmenter le pigment, et entraîne des dommages cutanés collatéraux. « Notre idée est de combiner notre technique d’anticorps spécifique combiné à une toxine pour détruire les macrophages avec le laser. Nous avons développé un anticorps pour la souris et nous allons travailler sur l’équivalent humain afin de collaborer avec des dermatologues sur de la peau humaine. La destruction très localisée des macrophages éviterait la recapture du pigment fragmenté et faciliterait son évacuation par les vaisseaux lymphatiques », explique Sandrine Henri. Un espoir pour les personnes qu’embarrassent leurs vieux tatouages.
+

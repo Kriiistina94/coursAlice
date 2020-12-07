@@ -1,0 +1,40 @@
+https://www.lemonde.fr/economie/article/2016/06/13/taux-negatifs-le-ras-le-bol-des-banques_4949190_3234.html
+
+## Taux négatifs  : le ras-le-bol des banques
+
+Ce n’est pas encore la mutinerie de la Bounty, mais une mini-révolte qui couve au sein de la planète finance. Les banques n’en peuvent plus des taux négatifs et elles le font savoir.
+
+Vendredi 10 juin lors d’une conférence en Allemagne, Vitor Constancio, le vice-président de la Banque centrale européenne (BCE), a tenté de calmer le jeu en assurant que l’environnement de taux était « positif » pour les banques. Pour lui, les effets secondaires pénalisants de la politique monétaire sont compensés par les bénéfices que sont une augmentation des volumes de crédit ou encore une chute des provisions pour risque. Mais le discours ne convainc guère.
+
+« Les taux négatifs sont globalement mauvais pour les banques et il ne faut donc pas s’étonner qu’elles s’en plaignent », souligne Jérôme Legras, directeur de la recherche chez Axiom AI. Selon Bloomberg, la marge d’intérêt des 13 principales banques européennes – c’est-à-dire la différence entre le rendement de leurs prêts et le coût de leur ressource – a baissé de 2,5 % au premier trimestre, entraînant une chute de 20 % de leurs profits.
+
+Stratégies de contournement
+
+La situation est d’autant plus pénible pour les établissements de crédit que l’écart entre taux courts et taux longs est minime, ce qui les prive des gains de « transformation » entre les différentes maturités.
+
+Or, à mesure que les taux s’enfoncent en territoire négatif, au Japon, en Suisse ou dans la zone euro, les banques voient leurs coûts augmenter car elles peinent à répercuter à leurs clients ce qui se passe sous la barre du zéro. Dans ce monde à l’envers, il faudrait, en effet, faire sauter certains tabous comme facturer à un particulier l’argent qu’il dépose au guichet. En fait, les banques font payer uniquement les institutionnels, voire des grandes entreprises.
+
+« Des blocages, juridiques parfois, mais surtout politiques, empêchent les banques de facturer les dépôts. En Belgique, par exemple, la rémunération des comptes d’épargne ne peut descendre en dessous de 11 points de base. C’est la loi. Il y a, en réalité, un vrai conflit entre la volonté de la BCE et celle des gouvernements », analyse M. Legras qui conclut : « en pratique, l’action de la BCE s’arrête à la frontière des banques ».
+
+D’où des stratégies de contournement. Mercredi 8 juin, la presse japonaise a révélé que Bank of Tokyo-Mitsubishi UFJ, l’une des principales banques du pays, entendait renoncer à participer aux adjudications portant sur la dette publique japonaise.
+
+C’est la première fois au Japon qu’une grande institution financière domestique abandonne cette position clé : comme si, en France, le Crédit agricole quittait le club distingué des spécialistes en valeur du Trésor (SVT), chargés d’assurer la liquidité des OAT. Impensable ? Pourtant, alors que l’emprunt à 10 ans du Japon a touché jeudi un rendement de – 0,092 %, le plus bas jamais atteint, les banques japonaises renâclent à remplir leurs soutes de ce papier délétère.
+
+Autre choc, l’allemand Commerzbank réfléchit, selon Reuters, à stocker dans ses coffres une partie de ses réserves, plutôt que de les confier à la BCE. Depuis mars, pour 1 000 euros déposés auprès du grand argentier de la zone euro, chaque banque doit verser un loyer de 4 euros par an. Cette facturation punitive vise à inciter les prêteurs à réinjecter l’argent dans l’économie. Mais comme, à ce stade, la demande de crédit ne s’avère pas suffisante pour absorber la masse de liquidités, les banques se retrouvent coincées avec leurs monceaux de cash.
+
+Limites
+
+En mars déjà, le Frankfurter Allgemeine avait publié une note émanant de l’Association des caisses d’épargne bavaroises signalant à ses membres que stocker leurs billets, même avec une assurance, coûterait moins cher que les transférer à la BCE. Quant au réassureur allemand Munich Re, il avait annoncé à l’époque qu’il se préparait à glisser 10 millions d’euros dans un bas de laine, afin de tester la logistique liée à la détention physique de cash.
+
+« Nous allons aussi observer ce que les autres vont faire pour éviter de payer des intérêts négatifs », avait prévenu Nikolaus von Bomhard, le directeur général du deuxième réassureur mondial.
+
+En Europe, ce n’est pas un hasard si la révolte vient d’Allemagne où les institutions financières sont riches en cash. Selon la Bundesbank, la politique de la BCE a coûté 248 millions d’euros à ses ouailles en 2015. Toutes les banques de la zone euro n’affichent pas la même sensibilité à la baisse des taux. Cela dépend de beaucoup de facteurs comme leur volume de dépôts par rapport aux crédits, le type de prêts qu’elles consentent (à taux variables ou à taux fixes), etc.
+
+Sachant que la protection liée aux taux fixes a ses limites : les banques françaises ont souffert en 2015 et encore en 2016 d’une vague de remboursements de crédits immobiliers. Sur le plan des liquidités, toutefois, elles s’en tirent plutôt bien. Dans l’Hexagone, les grandes banques – sauf la Banque postale – prêtent plus à leurs clients qu’elles ne reçoivent de dépôts. C’était un problème majeur en 2008 quand les marchés financiers étaient fermés. C’est devenu un avantage en 2016.
+
+« Tampon »
+
+Pour autant, les BNP Paribas et autres Société générale n’en profitent pas autant qu’elles voudraient, car l’épargne réglementée renchérit le prix de leur ressource. Depuis juillet 2015, les taux du Livret A et du Livret de développement durable sont fixés à 0,75 %. Ce rendement concerne les 356 milliards d’euros déposés sur ces livrets mais surtout il « sert de référence à l’ensemble de l’épargne », déplore un banquier : « en France, l’épargnant souffre moins qu’en Allemagne, car c’est la banque qui fait le tampon ». En parallèle, le rendement du Plan d’épargne logement (1,5 %) pourrait à terme faire de l’ombre à l’assurance-vie.
+
+En juillet, après la publication par l’Insee des chiffres de l’inflation, le gouverneur de la Banque de France transmettra au ministre des finances une recommandation concernant la rémunération du Livret A. Si la formule de calcul s’appliquait, ce taux aurait de grandes chances de ressortir à 0,25 %. Les banques françaises espèrent une baisse sans trop y croire dans le contexte politique : « Sinon, on devra réduire nos charges et fermer des agences. »
+

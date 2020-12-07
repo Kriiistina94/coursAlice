@@ -1,0 +1,28 @@
+https://www.lemonde.fr/economie/article/2016/04/20/alerte-aux-certificats-falsifies-dans-le-nucleaire_4905333_3234.html
+
+## Alerte aux certificats falsifiés dans le nucléaire
+
+L’Autorité de sûreté nucléaire (ASN) française est inquiète. Un mouton noir a été repéré dans la filière. Un fabricant de pièces métalliques qui, dans une soixantaine de cas au moins, a fourni à ses clients comme Areva des produits présentant des malfaçons, accompagnés de certificats falsifiés. L’ASN a demandé à toutes les entreprises du secteur de vérifier les pièces qu’elles utilisent en provenance de cette PME, pour pouvoir stopper les équipements en cas de besoin, a-t-elle annoncé lundi 18 avril.
+
+En 2012, un scandale du même type avait été découvert en Corée du sud. Des fournisseurs avaient contrefait les certificats de sûreté de milliers de pièces : fusibles, commutateurs, etc. Deux réacteurs avaient été arrêtés pour des inspections.
+
+En France, l’histoire débute en octobre 2015. Un industriel du nucléaire tique en consultant le certificat assurant que la pièce qu’il vient de recevoir est conforme à la commande et aux normes. Le fabricant, SBS, une PME de Boën (Loire), a beau travailler pour le nucléaire depuis la construction des premiers réacteurs, ce client a un soupçon. Il prend donc contact directement avec Bureau Veritas, la société qui a émis le certificat. Le pot aux roses est découvert. Selon le document original de Veritas, la pièce forgée n’était pas conforme. Un tour de passe-passe, et elle l’est devenue dans l’exemplaire remis à l’acheteur.
+
+Un salarié licencié, un autre suspecté
+
+Faux, usage de faux : Bureau Veritas a très vite porté plainte, suivi en mars par Areva et le Commissariat à l’énergie atomique (CEA). Certaines pièces en cause étaient en effet destinées au réacteur de recherche Jules Horowitz, qu’Areva bâtit pour le CEA à Cadarache (Bouches-du-Rhône).
+
+Lors de l’enquête, SBS, une filiale du groupe Genoyer, a reconnu les faits. En cause, un de ses salariés, licencié depuis. Il était en charge du contrôle qualité. Lorsque les analyses effectuées par Bureau Veritas ou Apave montraient que les pièces n’étaient pas conformes, pour un taux de chrome trop élevé par exemple, il lui arrivait de transformer leurs rapports sur son ordinateur, de changer quelques chiffres, afin que les produits puissent être livrés malgré tout sans que les clients renâclent. Une soixantaine de rapports maquillés a été identifiée.
+
+« Cela portait sur des points mineurs, affirme Ludovic Malgrain, l’avocat de l’entreprise. Quand il y avait des sujets importants, il ne modifiait pas les certificats. »
+
+A ce stade de l’enquête, il semble que ces tricheries répétées n’entraînent pas de problème de sûreté sur des installations en service.
+
+« Défaillance dans le processus de contrôle »
+
+La direction de SBS est néanmoins dépitée. « Il y avait une défaillance dans le processus de contrôle, admet Me Malgrain. Cette personne n’aurait pas dû pouvoir faire cela. » Un autre salarié est suspecté d’être impliqué. La société a informé tous ses clients, et assure avoir pris des mesures correctrices.
+
+Bureau Veritas, de son côté, prépare des solutions pour fournir des documents numériques à valeur probante qui ne puissent plus être dénaturés. Apave a également porté plainte, la semaine dernière.
+
+Peut-on avoir confiance dans les pièces des centrales nucléaires, et dans les certificats assurant leur conformité ? « Ce dossier reste heureusement exceptionnel, assure Julien Collet, directeur général adjoint de l’ASN. Depuis l’affaire coréenne, la falsification des certificats est néanmoins un sujet sur lequel toutes les autorités de sûreté se penchent, pour mieux déceler ces fraudes. » 
+

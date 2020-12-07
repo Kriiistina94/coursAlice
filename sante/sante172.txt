@@ -1,0 +1,40 @@
+https://www.lemonde.fr/sante/article/2017/03/01/drepanocytose-succes-d-une-therapie-genique-chez-le-premier-patient-traite_5087805_1651302.html
+
+## Drépanocytose : succès d’une thérapie génique chez le premier patient traité
+
+En octobre 2014, pour la première fois dans l’histoire, un patient atteint de drépanocytose, en l’occurrence un adolescent de 13 ans, recevait une thérapie génique pour traiter cette forme grave d’anémie d’origine génétique.
+
+Les résultats publiés mercredi 2 mars dans le New England Journal of Medicine (NEJM) par l’équipe du professeur Marina Cavazzana, de l’Institut des maladies génétiques Imagine, Inserm, à l’hôpital Necker de l’Assistance publique-Hôpitaux de Paris (AP-HP), avec un recul de quinze mois, sont très encourageants.
+
+Le jeune garçon, qui avait une forme très sévère de drépanocytose, ne souffre plus des crises extrêmement douloureuses caractéristiques de cette maladie, dues à l’occlusion de petits vaisseaux par des globules rouges déformés. Il n’a plus besoin de transfusions sanguines, et il a repris ses activités physiques et scolaires. Son taux d’hémoglobine est normal, et la protéine thérapeutique provenant du vecteur s’exprime à un niveau élevé – elle représente environ 50 % de l’hémoglobine circulante.
+
+« Ce garçon est dans une situation totalement stable, et le niveau de correction obtenu laisse espérer que sa rémission va se poursuivre pendant des années, résume Marina Cavazzana, qui se refuse cependant à parler de guérison. Si ces bons résultats se confirment dans le temps et à plus large échelle, cette thérapie génique pourrait être proposée comme alternative à la greffe de moelle à des patients qui n’ont pas de donneur compatible », estime-t-elle. Soit potentiellement beaucoup de personnes.
+
+Espérance de vie toujours impactée
+
+La drépanocytose, qui touche préférentiellement les personnes issues de zones géographiques à risque – Afrique, Antilles, Maghreb, Asie –, est en effet l’une des affections héréditaires les plus fréquentes. Dans le monde, 275 000 nouveau-nés naissent chaque année avec cette anémie chronique, qui se caractérise par la production d’une hémoglobine anormale et de globules rouges déformés (falciformes), du fait d’une mutation dans le gène de la béta globine. Le nombre de malades est de l’ordre de 90 000 aux Etats-Unis, de 26 000 en France.
+
+Du fait des crises vaso-occlusives, la drépanocytose peut conduire à des atteintes irréversibles de certains organes (rate, rein…), et l’espérance de vie, quoique en progression, reste impactée. Outre les transfusions, le traitement fait classiquement appel à un médicament au long cours, l’hydroxyurée. La greffe de moelle est la seule stratégie permettant une guérison, mais moins d’un patient sur cinq a un donneur compatible.
+
+Le vecteur de la thérapie génique utilisé chez l’adolescent est un lentivirus dans lequel a été introduit le gène codant pour la chaîne béta de l’hémoglobine, modifié par une mutation ponctuelle lui conférant une activité antifalciforme. Il a été mis au point par le professeur Philippe Leboulch, du Commissariat à l’énergie atomique et aux énergies alternatives et des facultés de médecine de l’université Paris-Sud et d’Harvard, principal auteur de l’article du NEJM avec Marina Cavazzana.
+
+Appelé LentiGlobin BB305, ce vecteur est développé par la société américaine Bluebird Bio, fondée par M. Leboulch. Du fait de son mode d’action, il présente l’avantage d’être aussi actif dans la bêta-thalassémie, une autre maladie génétique de l’hémoglobine. C’est d’ailleurs chez un jeune adulte atteint de bêta-thalassémie que l’équipe française a inauguré cette approche en 2007, avec succès.
+
+Chez l’adolescent drépanocytaire, la première phase du protocole a consisté à prélever des cellules-souches au niveau de sa moelle osseuse. Celles-ci ont été mises au contact du vecteur de la thérapie génique, pour transférer le matériel génétique.
+
+Parallèlement, le patient a été préparé à la greffe par une chimiothérapie visant à « vider » sa moelle osseuse. Les cellules-souches modifiées lui ont ensuite été réinjectées par voie veineuse, en une fois. Aucun effet indésirable lié à la thérapie génique n’a été constaté, les seules complications étant liées à la chimiothérapie.
+
+« Confirmer que cette stratégie est efficace »
+
+« Ce patient s’inscrit dans une étude de phase I-II, qui prévoit sept malades, tous pris en charge à l’hôpital Necker, précise Marina Cavazzana. Cinq – quatre atteints de thalassémie et notre jeune drépanocytaire – ont déjà été traités, avec des résultats positifs. Deux autres, drépanocytaires, sont en cours de traitement. »
+
+Aux Etats-Unis, cette même thérapie génique fait l’objet de deux essais cliniques de phase I-II, l’un chez des patients thalassémiques, l’autre chez des adultes drépanocytaires.
+
+Les résultats préliminaires de ce dernier, portant sur sept patients suivis en moyenne pendant sept mois, sont beaucoup plus modestes que chez le malade français, selon une communication présentée en décembre 2016 au congrès américain d’hématologie.
+
+Pour l’heure, le coût de cette thérapeutique est très élevé, de l’ordre de 500 000 euros par patient, selon le professeur Cavazzana. « Mais ce montant devrait fortement diminuer dans les prochaines années, avec l’automatisation des procédés », précise-t-elle.
+
+D’autres stratégies de thérapie génique sont à l’étude. Des équipes explorent ainsi la piste d’une correction de la mutation de la drépanocytose avec un outil Crispr-Cas9. Un essai clinique pourrait démarrer dès 2018.
+
+Pour le docteur Jean-Benoît Arlet, interniste à l’Hôpital européen Georges-Pompidou (AP-HP) et spécialiste de la drépanocytose, la publication du NEJM constitue une preuve de concept. « Ce sont des résultats très intéressants, souligne-t-il. Il faut maintenant confirmer que cette stratégie est efficace à long terme, permettant de prévenir les complications chroniques de la drépanocytose, avec une toxicité acceptable. Si c’est le cas, la thérapie génique pourra devenir une alternative à la greffe de moelle. Il faudra alors définir sa place par rapport aux nouvelles techniques de greffes dites haplo-identiques, qui permettent aujourd’hui de trouver plus facilement un donneur dans la famille, compatible à uniquement 50 %. »
+

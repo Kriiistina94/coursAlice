@@ -1,0 +1,44 @@
+https://www.lemonde.fr/economie/article/2016/06/06/premier-vrai-debat-a-bruxelles-sur-le-dieselgate_4938481_3234.html
+
+## Premier vrai débat à Bruxelles sur le « dieselgate »
+
+La machine communautaire prend souvent des mois à se mettre en mouvement : mardi 7 juin, les vingt-huit ministres des transports de l’Union européenne (UE) tiendront leur premier vrai débat politique, neuf mois après la révélation du « dieselgate » chez Volkswagen (VW). L’allemand, premier constructeur mondial, a avoué avoir triché sur les émissions réelles d’oxyde d’azote (NOx, principaux composants du diesel) de ses voitures.
+
+D’autres constructeurs ont-ils menti, les autorités d’homologation nationales ont-elles péché par manque de vigilance ? La Commission européenne et/ou les Etats membres ont-ils été négligents ? Le moins que l’on puisse dire, c’est que les différents protagonistes ne semblent pas prêts à assumer leurs responsabilités.
+
+La Commission, elle, entend profiter du rendez-vous de mardi pour exiger des Vingt-Huit qu’ils accélèrent les enquêtes nationales sur les niveaux d’émissions qu’elle leur avait demandées dès fin septembre 2015. Seules deux études – la britannique et l’allemande – lui ont été remises fin avril. En France, la commission Royal n’a publié qu’un rapport préliminaire, concernant une cinquantaine de voitures sur 100 au total.
+
+D’autres que Volkswagen
+
+Pour l’instant, toutes concluent que seul VW a réellement triché. Mais constatent qu’un certain nombre de véhicules dépassent largement, en condition de conduite réelle, les plafonds d’émissions de NOx autorisées par l’Europe (80 milligrammes par kilomètres pour les véhicules diesel).
+
+L’ONG bruxelloise Transport & Environnement a compilé ces quelques rapports pour établir son « dirty 30 », la liste des trente voitures neuves les plus émettrices en NOx, pourtant homologuées par les agences nationales. Quelques exemples ? La Dacia Sandero II (approuvée dans l’Hexagone) émet 12,8 fois le plafond de 80 mg/km autorisé, la Hyundai i20 II (feu vert au Royaume-Uni) pointe à 7,9 fois, l’Opel Insignia (Allemagne) s’affiche à huit fois le plafond autorisé…
+
+Les enquêtes allemande et britannique montrent aussi que les constructeurs utiliseraient un peu trop les « defeat devices », ces logiciels d’invalidation destinés à bloquer la réduction d’émissions de NOx des moteurs. La commissaire à l’industrie, Elzbieta Bienkowska, demandera mardi des explications aux Etats membres. La législation européenne interdit l’utilisation de ces sortes d’interrupteurs, ils ne sont tolérés que dans des cas exceptionnels (VW les aurait systématiquement utilisés).
+
+L’article 5 du règlement de 2007 relatif à l’homologation des véhicules stipule ainsi que les dispositifs d’invalidation sont tolérés uniquement, par exemple, lorsqu’ils s’avèrent nécessaires « en termes de protection du moteur contre des dégâts ou un accident et pour le fonctionnement en toute sécurité du véhicule ». Mais les constructeurs mettent en route leurs logiciels bloquants dans un grand nombre de conditions de conduite : « basse et haute température extérieure, grande vitesse, altitude élevée », énumère l’ONG Transport & Environnement, dans un autre rapport daté du 3 juin.
+
+Des compétences limitées
+
+Sur les modèles Opel-Vauxhall et Renault Nissan, les systèmes de réduction des émissions NOx seraient moins effectifs en dessous de 17°C de température ambiante, alors que la température moyenne en Europe se situe à 9°C…
+
+« De tels comportements correspondent à une interprétation extrême des textes européens (…), sont très suspects, et méritent des enquêtes plus poussées », conclut l’ONG.
+
+Que répondent les Etats membres ? « Que les textes européens sont trop vagues, qu’ils laissent une trop grande marge d’interprétation aux constructeurs », expliquent plusieurs sources européennes. La Commission ne serait pas contre l’ajout de précisions au règlement européen de 2007, mais pas avant d’avoir obtenu davantage d’explications des 28.
+
+Certes, la Commission a mis des années avant d’inscrire à son agenda une remise à plat des processus de tests d’homologations des voitures neuves. Le travail pour des tests en conditions réelles, pas en laboratoire, n’a commencé qu’en 2011 alors que les protocoles, manifestement insuffisants, dataient des années 1990.
+
+Mais les compétences de Bruxelles restent limitées, et les Etats membres ont toujours, jusqu’à présent, refusé que la Commission se mêle des activités de leurs agences nationales d’homologation (la KBA ­allemande, l’UTAC française).
+
+« Le respect du règlement de 2007 ­interdisant les logiciels d’invalidation a été confié aux Etats, comme ils le réclamaient », rappelle Julia Poliscanova, de Transport & Environnement.
+
+Ces agences d’homologation nationales sont néanmoins au cœur des questionnements bruxellois. La Commission, même si elle n’a pas osé proposer une agence européenne pour les chapeauter – anticipant un refus des pays membres –, a quand même mis sur la table, fin janvier, une nouvelle mouture de la directive de 2007 sur l’homologation des voitures neuves (à distinguer du règlement). Et ce, pour s’autoriser à enquêter sur ces agences ou pour limiter les risques de conflit d’intérêts dans les pays, entre ces agences et les constructeurs.
+
+Maintenir la pression
+
+Il devrait aussi être question de ce projet de directive révisé au conseil de mardi, « la France soutient très fortement cette proposition », assure un diplomate européen. Le Parlement européen a aussi commencé à l’étudier, mais il ne se prononcera pas avant l’automne.
+
+La commission d’enquête « dieselgate » devrait se charger de maintenir la pression sur toutes les parties. Après les auditions techniques, elle veut s’atteler aux auditions des politiques. Et revenir sur cet accord entre Etats, obtenu fin octobre 2015 en plein « dieselgate », concernant les plafonds de NOx tolérés pour les tests en conduite réelle.
+
+Les vingt-huit gouvernements de l’UE ont jugé que les voitures neuves pourront, durant les tests, encore émettre jusqu’à 2,1 fois le plafond autorisé (80 mg/km), et le dépasser d’encore au maximum 50 % après 2020… Cet accord a été validé par le Parlement. « Nous allons demander à Ségolène Royal, que nous voulons auditionner, de saisir la Cour de justice de l’Union pour tenter de le casser », prévient l’eurodéputée verte Karima Delli, membre de la commission d’enquête « dieselgate » du Parlement de Strasbourg.
+

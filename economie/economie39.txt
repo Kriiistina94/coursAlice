@@ -1,0 +1,24 @@
+https://www.lemonde.fr/economie/article/2016/07/06/quand-un-think-tank-de-l-ocde-propose-la-fin-de-la-voiture-en-ville_4964730_3234.html
+
+## Quand un « think tank » de l’OCDE propose la fin de la voiture en ville
+
+Imaginez une capitale où les voitures privées n’ont pas le droit de circuler, ni les taxis traditionnels, ni les autobus classiques à itinéraires fixes et où tous ces modes de transport ont été remplacés par un système de taxis-bus électriques connectés. Cette idée radicale n’a pas germé dans le cerveau d’un écologiste dément passé par la Silicon Valley, mais dans les bureaux feutrés du très sérieux Forum international des transports, laboratoire d’idées affilié à l’Organisation de coopération et de développement économiques et regroupant 57 pays.
+
+Mardi 5 juillet, son secrétaire général, José Viegas, a dévoilé une simulation réalisée à partir des données de mobilité réelles de la ville de Lisbonne (2,8 millions d’habitants). Le concept suppose la disparition des véhicules qui sillonnent traditionnellement le réseau routier urbain et leur remplacement par deux types d’engins. Le système de métro, lui, ne change pas.
+
+Première option offerte aux nouveaux usagers : des « taxis collectifs », grosses voitures de six places organisées sur le modèle d’Uberpool, un service proposé par Uber où l’on partage le véhicule. Disponibles en sept minutes maximum, ils transporteraient, pour un prix donné, les voyageurs en porte-à-porte, par l’entremise d’une application pour smartphone dédiée.
+
+Deuxième option, plus abordable : un réseau de minibus de 8 à 16 places, toutes assises, allant ramasser les usagers à leur demande à des points de prise en charge définis et les déposant à leur point de destination. Une application gérerait l’ensemble du trafic et un délai de trente minutes serait requis avant de voir arriver son bus à l’arrêt demandé.
+
+Une ville idéale
+
+Un sacré big-bang ! Avec des conséquences prodigieuses, si l’on en croit les calculs des ordinateurs du Forum International des Transports : diminution de 97,2 % du nombre de véhicules circulant, baisse de 23 % du volume du trafic (jusqu’à 37 % en heure de pointe), et recul de 34 % des émissions de CO2. Une libération massive de l’espace public (95 % des places de stationnement) et une disparition de la congestion automobile s’ensuivraient. Tout ceci sans compter les bienfaits sociaux : amélioration de l’accès à l’emploi, à la santé, à l’éducation. Bref, une ville idéale.
+
+« Cette proposition permet de bien mieux occuper la ressource, c’est-à-dire l’espace dans le véhicule, et d’utiliser plus rationnellement les automobiles, infiniment moins nombreuses mais qui parcourront de plus grandes distances », explique José Viegas, ancien professeur de transport à l’université de Lisbonne. Outre la capitale portugaise, cinq villes ont demandé une simulation : Dublin, Helsinki, Auckland (Nouvelle-Zélande) et deux autres villes non européennes dont l’identité n’a pas été dévoilée.
+
+Renoncer à l’automobile personnelle
+
+Les répercussions d’un tel bouleversement seraient innombrables, peut-être incalculables. Mais elles n’auraient pas pour effet immédiat une réduction de la dépense. La simulation suppose un doublement du nombre de taxis (6 000 contre 3 000 actuellement à Lisbonne) et de bus (1 000 contre 500), sachant que le chauffeur représente 50 % du coût total du véhicule en fonctionnement. « On peut compter sur les progrès du véhicule autonome pour contrebalancer ce surcoût à terme », espère José Viegas.
+
+Ce projet révolutionnaire bute au fond sur une inconnue de taille : existe-t-il quelque part dans le monde une ville où 100 % des habitants seraient prêts à renoncer complètement à un usage personnel de l’automobile ? M. Viegas reconnaît que le fossé sera difficile à franchir. Il suggère que les premiers essais pourraient se faire sur une moitié de la semaine, en tenant compte du fait qu’en deçà de trois jours d’interdiction sur cinq, le système est, selon lui, beaucoup moins efficient. Et il faudra aussi convaincre les industriels de l’automobile qu’une quasi-disparition de la voiture des villes est une solution d’avenir.
+

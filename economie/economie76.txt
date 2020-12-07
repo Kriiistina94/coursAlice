@@ -1,0 +1,32 @@
+https://www.lemonde.fr/economie/article/2016/10/10/nobel-d-economie-oliver-hart-et-bengt-holmstrom-deux-economistes-au-plus-pres-de-l-entreprise_5011402_3234.html
+
+## Nobel d’économie : Oliver Hart et Bengt Holmström, deux économistes au plus près de l’entreprise
+
+Le « prix d’économie de la Banque de Suède en hommage à Alfred Nobel » remis au Finlandais Bengt Holmström et à l’Américano-Britannique Oliver Hart récompense leurs travaux théoriques sur le fonctionnement de l’entreprise, considérée comme un ensemble de contrats, implicites ou explicites, entre les parties prenantes (employeur et employé, donneur d’ordre et sous-traitant, collaborateur et manager, actionnaire et dirigeant, etc.).
+
+L’essentiel de ces travaux date de la fin des années 1970 et des années 1980, mais, « quoique inconnus du grand public, ils ont ouvert la voie à quarante années de recherche en microéconomie », estime Thomas-Olivier Leautier, chercheur à l’Ecole d’économie de Toulouse, dont l’un des directeurs de thèse était M. Holmström. Ce dernier a ainsi cosigné plusieurs articles avec Jean Tirole et a été l’un des rares invités d’honneur du Français lors de la remise de son propre prix Nobel à Stockholm, en 2014.
+
+Tous deux sont partis de la mise en évidence, par les économistes américains Robert Akerlof et Joseph Stiglitz dans les années 1970, de l’asymétrie de l’information dont disposent les acteurs de l’économie dans leurs transactions. Une mise en évidence qui a mis fin au dogme de l’information « parfaite » décrite jusqu’alors par la théorie.
+
+Un réseau de transactions
+
+Ce constat étant également valable à l’échelle de l’entreprise, celle-ci peut être considérée comme un réseau de transactions, de « contrats » tenant compte de cette asymétrie, et non pas comme le résultat d’un « équilibre optimal » entre ces parties, explique Philippe Askenazy, de l’Ecole d’économie de Paris. Par exemple, un employeur, lorsqu’il recrute un employé, ne sait pas quels efforts celui-ci fournira pour assurer la tâche qu’il lui confie, tout comme l’employé ne sait pas quels moyens l’employeur mettra réellement à sa disposition. De même, ni l’un ni l’autre ne peuvent prévoir les événements exogènes à leur relation mais susceptibles de l’impacter, comme une maladie (de l’employé) ou les difficultés économiques (de l’entreprise).
+
+Les « contrats » reflètent ces incertitudes que les deux économistes ont, chacun de leur côté, cherché à modéliser. Leurs travaux ont ainsi des implications concrètes en matière de gestion des ressources humaines, et plus généralement de gestion économique et financière, dans la mesure où leurs modèles peuvent aussi s’appliquer aux multiples transactions de l’entreprise (avec le régulateur, l’autorité publique, les banquiers, les assureurs, les investisseurs, les fournisseurs, etc.).
+
+M. Holmström a ainsi travaillé sur les rémunérations des dirigeants d’entreprise par les actionnaires ; M. Hart sur les partenariats public-privé, modélisant les situations dans lesquelles, par exemple, il est plus efficace pour la collectivité publique d’avoir deux opérateurs différents pour construire puis gérer un hôpital ou une prison, ou au contraire d’avoir un seul et même opérateur.
+
+Incitations réciproques
+
+« Ces travaux ont fourni des outils permettant d’inciter les entreprises à révéler leur véritable capacité productive et de limiter ainsi l’asymétrie d’information entre privé et public, et donc de parvenir à un contrat optimum pour les deux parties », précise Philippe Gagnepain, professeur à Paris-I et membre de l’Ecole d’économie de Paris.
+
+Pour Bengt Holmström, né en 1949 et professeur au Massachusetts Institute of Technology depuis 1994, un contrat contient donc par nature des incitations réciproques des deux parties destinées à limiter l’incertitude qu’elles font peser l’une sur l’autre. Il montre par exemple que, pour s’assurer que l’employé réalisera bien les efforts nécessaires, l’employeur utilise soit une augmentation de salaire soit une promotion, mais que les effets en seront différents en fonction des circonstances. Il s’inspire de la théorie des jeux pour s’efforcer à modéliser le « contrat optimum » en montrant que, si celui-ci peut améliorer, grâce aux incitations, les comportements des acteurs, il ne peut cependant envisager tous les facteurs exogènes.
+
+Le rôle de la confiance
+
+Oliver Hart, né en 1948 et professeur à Harvard, s’est efforcé quant à lui de modéliser les « contrats incomplets ». Dépassant la conception classique de l’entreprise, qui y voit, avec l’économiste Ronald Coase, un nœud de coûts de transaction générant l’équilibre entre les parties, Oliver Hart y voit l’institution qui permet de « faire tenir ensemble » les parties alors que tous les éléments et événements de leurs relations ne peuvent être connus d’avance et envisagés. Il soulignera ainsi le rôle de la confiance, de l’autorité d’un acteur sur l’autre ou de la présence éventuelle d’un tiers influent sur la nature du contrat. Il s’efforce de modéliser les formes de contrats les plus « robustes » possibles en admettant l’impossibilité d’y intégrer l’immense champ des possibles.
+
+Pour l’un comme pour l’autre, les contrats reflètent le monde tel qu’il est et non tel que la théorie économique voudrait qu’il soit. Certes, ils proposent tous deux, en bons théoriciens, des modèles simplificateurs visant à optimiser ces contrats.
+
+« Ils ont écrit des équations extrêmement simples, précises et robustes, mais ils se sont bien gardés de donner des valeurs précises aux variables qu’ils mettaient en évidence », observe Jean-Marc Daniel, professeur à l’ESCP. Ces modèles ont donc surtout ouvert la voie à d’innombrables travaux de microéconomie permettant de les croiser avec les données disponibles. « Je teste leurs modèles théoriques dans le domaine des transports publics, pour lesquels on dispose d’immenses bases de données », explique par exemple Philippe Gagnepain.
+

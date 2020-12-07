@@ -1,0 +1,32 @@
+https://www.lemonde.fr/sante/article/2016/04/19/essai-clinique-a-rennes-la-mort-d-un-volontaire-est-clairement-liee-a-la-molecule-testee_4905071_1651302.html
+
+## Essai clinique de Rennes : la mort d’un volontaire « clairement liée à la molécule testée »
+
+« L’accident survenu chez plusieurs volontaires de l’essai mené par Biotrial apparaît clairement lié à la molécule testée. » C’est la conclusion du rapport final du comité scientifique spécialisé temporaire (CSST), mis en place par l’Agence nationale de sécurité du médicament (ANSM), à la suite de l’essai clinique mené à Rennes. Un volontaire sain était décédé le 17 janvier et cinq autres ont eu des effets secondaires neurologiques sérieux au cours de cette première administration à l’homme pour évaluer la toxicité du « BIA 10-2474 », un médicament expérimental du laboratoire portugais Bial destiné à soulager les douleurs neurologiques.
+
+L’ANSM a mis en ligne, mardi 19 avril, ce document, qui précise que le médicament testé « ne pouvait pas, a priori, être considéré comme un produit à risque », selon les critères de l’Agence européenne du médicament. Le rapport indique que « les données transmises [par le laboratoire Bial] ne contenaient pas d’informations, notamment au plan toxicologique, de nature à faire craindre un risque particulier lors de la première administration à l’homme ».
+
+« Erreurs, imprécisions, inversions de chiffres »
+
+En revanche, la brochure investigateur (document rédigé par le laboratoire Bial, qui rassemble les données pertinentes pour l’expérimentation chez l’être humain) « comporte un assez grand nombre d’erreurs, d’imprécisions, d’inversions de chiffres ou de traduction erronée des documents sources qui rendent la compréhension difficile sur plusieurs points. Ceci est tout à fait surprenant du fait de l’importance réglementaire de ce document », estiment les experts.
+
+Sans se prononcer sur « le bien-fondé de l’autorisation de l’essai par l’ANSM après avis du comité de protection des personnes de Brest », ce qui ne faisait pas partie de ses prérogatives, le CSST jette une pierre dans le jardin du laboratoire Bial et du centre expérimentateur Biotrial, et conforte la position de l’agence du médicament qui n’aurait pas eu de raison a priori de refuser l’essai.
+
+Une position qui rejoint celle d’un document interne à l’ANSM, daté du 27 janvier, qui indique que la demande d’autorisation d’essai « a été instruite selon les pratiques et procédures habituelles de l’agence pour les essais combinés de phase 1 en première administration à l’homme et dans le respect de la guideline [recommandation] européenne dédiée ».
+
+« Mode de progression trop brutal »
+
+Présidé par le pharmacologue Bernard Bégaud, le CSST avait une triple mission : analyser les mécanismes d’action et la toxicité des substances de la même famille que le BIA 10-2474 ; faire le tour des hypothèses pouvant expliquer la toxicité constatée à Rennes et enfin formuler des recommandations générales pour « renforcer la sécurité des volontaires, notamment lors des études de première administration à l’homme (phase 1) ».
+
+Le CSST confirme l’existence d’atteintes cérébrales lors des essais chez le rat et la souris, chez le singe traité à forte dose et d’atteintes pulmonaires chez le chien. Les experts ne s’expliquent pas bien les raisons ayant conduit à tester la molécule sur quatre espèces différentes « ce qui est, pour un dossier de ce type, inhabituel ».
+
+Pour l’expérimentation humaine, le rapport s’étonne de la manière dont le passage aux doses les plus élevées s’est déroulé pour les volontaires : « Le mode de progression des doses apparaît clairement problématique car trop brutal en fin de progression alors que le bon sens aurait plaidé pour l’inverse. »
+
+Dose administrée de manière quotidienne et répétée
+
+Après avoir écarté diverses hypothèses (contamination infectieuse, interaction avec d’autres produits, particularité génétique), le CSST conclut que « la symptomatologie présentée par les volontaires [du groupe où ont eu lieu les effets indésirables] ne peut être liée qu’à la dose de BIA 10-2474 qui leur a été administrée de manière quotidienne et répétée ».
+
+L’apparition des symptômes toxiques « pourrait être en rapport avec le caractère que l’on peut juger a posteriori “peu maniable” de la molécule de BIA 10-2474 ». Celle-ci présenterait en effet une « activité relativement faible », « peu spécifique » en raison d’une action sur d’autres enzymes que ceux visés, et « d’action peu progressive », avec un passage brutal d’une absence d’inhibition d’une enzyme cible à une inhibition quasi totale pour une faible variation de concentration du BIA 10-2474.
+
+« Dans ces conditions, l’accélération peu compréhensible de l’escalade des doses entre les cohortes [recevant des doses répétées croissantes de 20 mg ou de 50 mg] a vraisemblablement joué un rôle important dans le déclenchement de l’accident », écrivent les experts. Ils précisent avoir travaillé bénévolement dans le cadre du CSST et « en totale indépendance, notamment vis-à-vis de l’ANSM, du laboratoire Bial, du centre Biotrial, des volontaires ayant participé à l’essai, de leurs familles et des leurs défenseurs ».
+

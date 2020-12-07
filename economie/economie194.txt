@@ -1,0 +1,22 @@
+https://www.lemonde.fr/economie/article/2016/04/22/emissions-polluantes-des-irregularites-pour-seize-marques-automobiles_4907246_3234.html
+
+## Les constructeurs allemands rappellent 630 000 véhicules diesel
+
+C’est la fin de l’hypocrisie dans le monde de l’automobile allemande. Volkswagen (VW) n’est pas le seul constructeur dont les émissions réelles de gaz polluants dépassent les limites autorisées. Sous la pression du ministère des transports allemand, qui a rendu les conclusions de son enquête sur la pollution réelle des moteurs diesel vendredi 22 avril, d’autres constructeurs ont annoncé le rappel de 630 000 véhicules en Europe « pour problèmes de gaz d’échappement ». En cause, l’utilisation jugée problématique d’un dispositif d’interruption du système antipollution.
+
+Le rappel concerne cinq grandes marques allemandes. Certaines marques étrangères ont aussi été épinglées par la commission. C’est le cas de Renault, qui a indiqué son intention de rappeler également des véhicules problématiques. Selon les informations du quotidien Handelsblatt seront rappelés 243 000 véhicules de la marque Mercedes (classes A, B et V), 66 000 Audi (Q5, A6, A8), 194 000 Volkswagen Amarok et Crafter, 32 000 Porsche Macan et 90 000 Opel Zafira, Insignia et Cascada. Pour ces modèles, la « technique de dépollution des gaz d’échappement à certaines températures doit être révisée », explique le gouvernement.
+
+Un mécanisme autorisé, mais utilisé abusivement
+
+Contrairement à l’affaire des moteurs diesel de VW, aucun logiciel illégal n’a été détecté dans les modèles concernés par ce rappel. VW avait utilisé un programme qui diminuait artificiellement les émissions de gaz polluants lors des situations de test, nettement supérieures dans des conditions réelles de conduite. Cette fois-ci, les inspecteurs du contrôle technique allemand ont émis des doutes sur un autre système, bien autorisé dans certains cas par la législation européenne, mais potentiellement utilisé de manière abusive.
+
+Les constructeurs sont en effet autorisés à programmer le système de commande du moteur de manière à couper, à certaines températures, le dispositif de dépollution des gaz d’échappement, officiellement dans le but de protéger le moteur. Une autorisation que l’association écologiste Deutsche Umwelthilfe dénonce depuis longtemps comme abusive. La commission d’enquête mandatée par le gouvernement à la suite de l’affaire VW vient de lui donner raison en exprimant ses doutes sur la nécessité réelle d’un tel dispositif.
+
+La plus grosse perte de l’histoire de Volkswagen
+
+Daimler avait déjà reconnu utiliser une commande qui bride le système antipollution du moteur par des températures de moins de 10 °C, tout comme BMW. Chez Opel, le bridage aurait même lieu dès 17 °C. Tous les constructeurs défendent la fonction comme légale, mais ils ont été priés de réduire l’amplitude de cette « fenêtre thermique », dans laquelle le dispositif de dépollution est désactivé. D’où le rappel volontaire des constructeurs, qui devront recalibrer le système de commande du moteur, programme qui décide du moment où le système de dépollution fonctionne ou non.
+
+Or, selon le magazine Der Spiegel, c’est Bosch, grand spécialiste de ces systèmes de commande de moteur, qui a équipé de nombreux constructeurs. Bosch est aussi le sous-traitant qui avait fourni à VW la base du logiciel manipulé ensuite par le constructeur pour tromper les contrôles antipollution. Daimler de son côté pourrait être également entraîné dans la même spirale que VW. Vendredi 22 avril, le gouvernement américain a sommé le groupe de Stuttgart de vérifier la réalité de ses données officielles d’émissions polluantes aux Etats-Unis, jugées problématiques.
+
+Avec ces révélations, c’est la branche automobile allemande dans son ensemble qui est ébranlée. Le géant Volkswagen, qui a conclu jeudi un accord avec la justice américaine sur les suites de la fraude de ses véhicules diesel, a annoncé vendredi qu’il enregistrerait en 2015 la plus grosse perte de son histoire. Il doit en effet provisionner, pour régler les conséquences du scandale, 16,2 milliards d’euros sur l’année 2016. Il devrait en conséquence réduire de 30 % les bonus de ses cadres.
+

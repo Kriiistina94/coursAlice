@@ -1,0 +1,44 @@
+https://www.lemonde.fr/economie/article/2016/08/06/strava-veut-rentabiliser-les-donnees-fournies-par-les-cyclistes_4979235_3234.html
+
+## Le réseau social Strava veut rentabiliser les données fournies par les cyclistes
+
+Lancée en 2011, la plate-forme Strava, peu connue hors des milieux sportifs, est devenue en cinq ans le réseau social des cyclistes amateurs et des coureurs : le Facebook des bikers, quoique son PDG, Mark Gainey, n’aime guère la comparaison.
+
+« Dans Facebook, il est question d’amitié. Strava, c’est pour les athlètes, note-t-il. Pour leur permettre de comparer leur activité sportive avec celle des autres. » Strava, autrement dit, est un lieu de compétition. Chacun y affiche ses exploits. Le champion est sacré « King of the mountain » (KOM), ou roi de la montagne, un titre qui n’a rien à envier à celui de maillot à pois du meilleur grimpeur.
+
+Strava est installée à San Francisco (Californie), dans le Soma (« South of Market »), le quartier des start-up des années 2010. Un plateau ouvert, de 2 000 mètres carrés, surplombé par une mezzanine. Quelques graphiques design, un logo orange. Rien que de très banal sinon l’entrée, qui a l’allure d’un magasin de cycles doublé d’un vestiaire. Les salariés (une centaine au siège) viennent au bureau à vélo, accrochent leur bike aux anneaux suspendus au plafond et laissent leurs tennis en désordre devant les casiers.
+
+Strava a surfé sur la vague qui a suivi l’apparition des smartphones. Ses cofondateurs, Mark Gainey et Michael Horvath, s’étaient rencontrés dans l’équipe d’aviron de Harvard. Après leurs études, ils prennent des chemins classiques : holdings, banque et communication. « J’aimais bien ce que je faisais, mais c’était comme manger de la junk food. Aucune satisfaction à long terme », explique le PDG.
+
+Plusieurs dizaines de millions d’inscrits
+
+En 2009, les deux amis ont l’idée de créer une plate-forme qui permettrait d’enregistrer les entraînements grâce à un GPS, et de les télécharger pour analyser et partager les performances.
+
+Quelques mois après son lancement, Strava comptait plus de 100 000 inscrits. Ils sont aujourd’hui plusieurs dizaines de millions, dont 150 000 nouveaux membres par semaine qui ne proviennent plus majoritairement des Etats-Unis (moins de 20 % du total) mais d’une douzaine de métropoles : Barcelone, Rio, Londres, Paris…
+
+Parmi les inscrits, figurent des professionnels qui postent leur entraînement et parfois des photos, comme les Français Arnaud Demare, vainqueur du dernier Milan-San Remo, ou Thibaut Pinot, troisième du Tour de France 2014, une star sur Strava, avec 53 275 abonnés. Laurent Jalabert compte 6 750 « suiveurs », Lance Amstrong 54 750 !
+
+Les revenus proviennent de la boutique en ligne et du service premium (le nombre de ses abonnés est tenu secret). Pour 60 euros par an, celui-ci fournit des statistiques personnelles détaillées (analyse de la fréquence cardiaque, etc.) et la possibilité de suivre en direct les performances des coureurs précédents.
+
+Diversifier ses activités
+
+« N’importe qui peut créer un segment de parcours. Et tous les gens qui empruntent ce segment peuvent se mesurer “live” sur leur mobile », explique Gregory Vermersch, le responsable pour la France.
+
+A l’été 2014, le Néerlandais Lars Boom avait posté son parcours sur les pavés de « L’enfer du Nord » (Paris-Roubaix). « Demain, si je suis dans la région, je peux refaire ce parcours. Et si je télécharge l’appli sur mon GPS, je peux voir de combien il est devant moi », explique ce passionné de deux-roues.
+
+La plupart des sites de tracking sont aux mains des géants de l’équipement sportif. L’autrichien Runtastic a été racheté par Adidas en 2015 (240 millions de dollars, soit environ 216 millions d’euros). L’américain Runkeeper, par le japonais Asics en février.
+
+Dans un univers aussi encombré, Strava a souhaité diversifier ses activités. Et réalisé qu’il pouvait rentabiliser les données fournies par les sportifs. « Il y a eu une part de hasard, explique Mark Shaw, un barbu en bermuda qui est directeur informatique et responsable du projet « Metro ». On faisait une appli pour que les cyclistes se connectent avec d’autres amateurs, et on s’est aperçu qu’on avait un capital énorme : les données. »
+
+D’autant qu’une large proportion d’utilisateurs se servent de l’application pour aller au travail. A Londres, par exemple : 78 % des téléchargements correspondent à des déplacements en ville. 
+
+Esprit communautaire
+
+Ainsi est né Strava Metro. Le service fournit aux municipalités des visualisations du trafic cycliste précises. « Le fait de voir les tendances de la circulation leur permet de réviser leurs infrastructures », se flatte le directeur.
+
+Strava a déjà conclu des partenariats avec 70 collectivités locales, dont, aux Etats-Unis, Portland, Seattle, Salt Lake City, Austin et, en Australie, l’Etat du Queensland. La plate-forme développe ses propres cartes : les rues que les cyclistes évitent, les routes les plus empruntées, le temps d’attente aux intersections. Les services sont facturés en fonction du nombre d’utilisateurs dans la zone (80 centimes par membre pour douze mois).
+
+Quid du respect de la vie privée ? Seules les données des volontaires sont collectées, insiste Mark Gainey. Les utilisateurs peuvent limiter les informations qu’ils acceptent de voir publiées. « Les données sont anonymes et condensées. Et les gens savent que nous ne vendons pas de publicités », se défend-il.
+
+Pour ses dirigeants, Strava Metro illustre les bons côtés de l’esprit communautaire de l’Internet. Les cyclistes y trouvent leur compte sous la forme de meilleurs itinéraires. La compagnie, elle, espère profiter de la manne des « data ».
+
